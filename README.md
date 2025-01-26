@@ -10,8 +10,10 @@ puedes agregar los amigos que quieras por medio del boton añadir una ves tengas
 como pueden usarlo los usuarios. 
 
 1. habre el archivo index.html (si descargas el juego completo recuerda tener el archivo java, html y Css) en la misma ruta.
+    1.1. si estas desde visual estudio code, te recomiendo instalar live server, click derecho sobre el archivo desde visual estudio code y abrir en live server te ayudara a aplicar automaticamente todas las actualizaciones que hages del codigo.
 
 2. una vez habras el archivo index html puedes empezar agregar amigos en el espacio donde dice escribe un nombre
+
 
 3. dale click al botón añadir para añadir el amigo a la lista 
 
